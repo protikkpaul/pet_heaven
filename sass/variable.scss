@@ -11,10 +11,11 @@ $white: #ffffff;
 
 // Global
 $color-body: #999999;
-$color-primary: #f3f3f3;
+$color-primary: #f15958;
 $color-secondary: #000000;
 $color-tertiary: #000000;
 $color-quaternary: #ffffff;
+$color-icon: #f15958;
 
 
 /* -------------------- 
@@ -32,7 +33,7 @@ NAVBAR SETTING
 $navbar-bg: $color-primary;
 $navbar-font: $font-secondary;
 $navbar-color: $color-secondary;
-$navbar-hover-color: $white;
+$navbar-hover-color: $color-icon;
 $navbar-active-color: $white;
 $navbar-stiky-color: $color-secondary;
 

@@ -1008,7 +1008,7 @@ ICON 2
 .box-icon-1 {
   margin-bottom: 15px; }
   .box-icon-1 .icon {
-    color: #F7941D;
+    color: $color-icon ;
     display: inline-block;
     font-size: 36px;
     line-height: 2.2;
