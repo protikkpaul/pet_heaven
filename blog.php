@@ -16,7 +16,7 @@
 			<div class="container">
 			    <nav aria-label="breadcrumb">
 				  <ol class="breadcrumb ">
-				    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+				    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
 				    <li class="breadcrumb-item active" aria-current="page">Blog List</li>
 				  </ol>
 				</nav>					
@@ -35,12 +35,12 @@
 					<div class="col-12 col-sm-6 col-md-4">
 						<div class="rs-news-1 mb-5">
 							<div class="media">
-								<a href="blog-single.html">
+								<a href="blog-single.php">
 									<img src="images/dummy-img-600x400.jpg" alt="" class="img-fluid">
 								</a>
 							</div>
 							<div class="body">
-								<div class="title"><a href="blog-single.html">Dog sitting on the floor</a></div>
+								<div class="title"><a href="blog-single.php">Dog sitting on the floor</a></div>
 								<div class="meta-date">May 12, 2017</div>
 								<p>Dignissimos ccusamus et iusto odio ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores....</p>
 							</div>
@@ -51,12 +51,12 @@
 					<div class="col-12 col-sm-6 col-md-4">
 						<div class="rs-news-1 mb-5">
 							<div class="media">
-								<a href="blog-single.html">
+								<a href="blog-single.php">
 									<img src="images/dummy-img-600x400.jpg" alt="" class="img-fluid">
 								</a>
 							</div>
 							<div class="body">
-								<div class="title"><a href="blog-single.html">Persian Cat with new</a></div>
+								<div class="title"><a href="blog-single.php">Persian Cat with new</a></div>
 								<div class="meta-date">May 12, 2017</div>
 								<p>Dignissimos ccusamus et iusto odio ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores....</p>
 							</div>
@@ -67,12 +67,12 @@
 					<div class="col-12 col-sm-6 col-md-4">
 						<div class="rs-news-1 mb-5">
 							<div class="media">
-								<a href="blog-single.html">
+								<a href="blog-single.php">
 									<img src="images/dummy-img-600x400.jpg" alt="" class="img-fluid">
 								</a>
 							</div>
 							<div class="body">
-								<div class="title"><a href="blog-single.html">Make pet comportable</a></div>
+								<div class="title"><a href="blog-single.php">Make pet comportable</a></div>
 								<div class="meta-date">May 12, 2017</div>
 								<p>Dignissimos ccusamus et iusto odio ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores....</p>
 							</div>
@@ -83,12 +83,12 @@
 					<div class="col-12 col-sm-6 col-md-4">
 						<div class="rs-news-1 mb-5">
 							<div class="media">
-								<a href="blog-single.html">
+								<a href="blog-single.php">
 									<img src="images/dummy-img-600x400.jpg" alt="" class="img-fluid">
 								</a>
 							</div>
 							<div class="body">
-								<div class="title"><a href="blog-single.html">Find a way pet problem</a></div>
+								<div class="title"><a href="blog-single.php">Find a way pet problem</a></div>
 								<div class="meta-date">May 12, 2017</div>
 								<p>Dignissimos ccusamus et iusto odio ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores....</p>
 							</div>
@@ -99,12 +99,12 @@
 					<div class="col-12 col-sm-6 col-md-4">
 						<div class="rs-news-1 mb-5">
 							<div class="media">
-								<a href="blog-single.html">
+								<a href="blog-single.php">
 									<img src="images/dummy-img-600x400.jpg" alt="" class="img-fluid">
 								</a>
 							</div>
 							<div class="body">
-								<div class="title"><a href="blog-single.html">Give vaccine 3 month</a></div>
+								<div class="title"><a href="blog-single.php">Give vaccine 3 month</a></div>
 								<div class="meta-date">Jun 02, 2017</div>
 								<p>Dignissimos ccusamus et iusto odio ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores....</p>
 							</div>
@@ -115,12 +115,12 @@
 					<div class="col-12 col-sm-6 col-md-4">
 						<div class="rs-news-1 mb-5">
 							<div class="media">
-								<a href="blog-single.html">
+								<a href="blog-single.php">
 									<img src="images/dummy-img-600x400.jpg" alt="" class="img-fluid">
 								</a>
 							</div>
 							<div class="body">
-								<div class="title"><a href="blog-single.html">Dog playing at ground</a></div>
+								<div class="title"><a href="blog-single.php">Dog playing at ground</a></div>
 								<div class="meta-date">Jun 12, 2017</div>
 								<p>Dignissimos ccusamus et iusto odio ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores....</p>
 							</div>

@@ -115,7 +115,7 @@
 			                    <a class="nav-link" href="about-us.php">ABOUT US</a>
 			                </li>
 			                <li class="nav-item dropdown dmenu">
-			                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			                    <a class="nav-link dropdown-toggle" href="services.php" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						          SERVICES
 						        </a>
 			                    <div class="dropdown-menu">
@@ -130,7 +130,7 @@
 			                    <a class="nav-link" href="gallery.php">GALLERY</a>
 			                </li>
 			                <li class="nav-item">
-			                    <a class="nav-link" href="gallery.php">BLOG</a>
+			                    <a class="nav-link" href="blog.php">BLOG</a>
 			                </li>
 			                <li class="nav-item">
 			                    <a class="nav-link" href="shop.php">SHOP</a>

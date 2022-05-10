@@ -4,7 +4,7 @@
 	<div class="section banner-page" data-background="images/dummy-img-1920x300.jpg">
 		<div class="content-wrap pos-relative">
 			<div class="d-flex justify-content-center bd-highlight mb-2">
-				<div class="title-page">Services</div>
+				<div class="title-page">Vaccination</div>
 			</div>
 			<p class="text-center text-white">Your pet's health and well-being are our top priority.</p>
 		</div>
@@ -17,7 +17,7 @@
 			    <nav aria-label="breadcrumb">
 				  <ol class="breadcrumb ">
 				    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-				    <li class="breadcrumb-item active" aria-current="page">Single Services</li>
+				    <li class="breadcrumb-item active" aria-current="page">Vaccination</li>
 				  </ol>
 				</nav>					
 			</div>
@@ -34,7 +34,7 @@
 
 						<div class="widget categories">
 							<ul class="category-nav">
-								<li class="active"><a href="#">Pet Barber Services</a></li>
+								<li class="active"><a href="#">Pet Vaccination Services</a></li>
 								<li><a href="#">Pet Vaccination</a></li>
 								<li><a href="#">Pet Consultation</a></li>
 								<li><a href="#">Preventive Medicine</a></li>
@@ -65,7 +65,7 @@
 					<div class="col-12 col-sm-12 col-md-8">
 						<img src="images/dummy-img-900x600.jpg" alt="" class="img-fluid">
 						<h2 class="section-heading text-primary no-after mb-4">
-							Pet Barber Services
+							Pet Vaccination Services
 						</h2>
 						<p class="text-black lead">We are pets clinic dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 						<p>Quisque ut dolor gravida, placerat libero vel, euismod. Ut enim ad minim veniam, quis nostrud exercitation. Quam temere in vitiis, legem sancimus haerentia. Pellentesque habitant morbi tristique senectus et netus. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore.</p>
