@@ -49,13 +49,10 @@
 	<div class="clearfix"></div>
 
 	<!-- ABOUT -->
-	<div class="section bgi-left bgi-hide-xs" data-background="images/dummy-img-600x800.jpg">
+	<div class="section bgi-left bgi-hide-xs" data-background="images/dummy-img-600x800.jpg" style="margin-bottom: 0px;">
 		<div class="content-wrap">
 			<div class="container">
 				<div class="row">
-					<div class="">
-
-					</div>
 					<div class="col-sm-12 col-md-8 offset-md-4">
 
 						<h2 class="section-heading text-primary no-after mb-4">

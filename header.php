@@ -138,6 +138,8 @@
 			                <li class="nav-item">
 			                    <a class="nav-link" href="contact.php">CONTACT</a>
 			                </li>
+							
+							
 
 			            </ul>
 			            <a href="page-appointment-form.php" class="btn btn-secondary btn-nav btn-rect ml-auto">GET AN APPOINTMENT</a>

@@ -695,11 +695,14 @@ ul li {
 }
 
 .bgi-left {
+  
   background-position: left;
   background-size: auto;
   background-repeat: no-repeat;
 }
-
+.bgi-left img {
+  margin-bottom: 0px;
+}
 blockquote {
   padding: 15px 20px;
   background-color: #f6f6f6;
